@@ -1,7 +1,7 @@
 ## Olá! Somos a Célula de Desenvolvimento Web do Inove 👋
 
 <div align="center" >
-    <img src="profile/images/LOGO-DEV-INOVE-no-bg.png" alt= “” width="600em">
+    <img src="profile/images/LOGO-DEV-INOVE.png" alt= “” width="600em">
 </div>
 
 ### O que é a Célula de Dev 🤔?
