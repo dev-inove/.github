@@ -1,7 +1,7 @@
 ## Olá! Somos a Célula de Desenvolvimento Web do Inove 👋
 
 <div align="center" >
-    <img src="../images/LOGO-DEV-INOVE-no-bg.png" alt= “” width="600em">
+    <img src="images/LOGO-DEV-INOVE-no-bg.png" alt= “” width="600em">
 </div>
 
 ### O que é a Célula de Dev 🤔?
@@ -17,11 +17,11 @@ A célula de Dev é uma equipe de pessoas que buscam progredir em suas habilidad
 ## Projetos Da célula de Dev 🚀
 - [Sistema administrativo para o Instituto dos Cegos de Fortaleza](https://github.com/dev-inove/Projeto-IDC) (Em desenvolvimento) 🏗️
     <div>
-        <img src="../images/logo.svg" alt= “” width="400em">
+        <img src="images/logo.svg" alt= “” width="400em">
     </div>
 - [Novo Site para o Inove](https://github.com/dev-inove/Projeto_Site_Inove_2.0) (Projeto Futuro) 
     <div>
-        <img src="../images/inove-logo.png" alt= “” width="250em">
+        <img src="images/inove-logo.png" alt= “” width="250em">
     </div>
 
 ---
