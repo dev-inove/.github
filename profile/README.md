@@ -27,4 +27,4 @@ A célula de Dev é uma equipe de pessoas que buscam progredir em suas habilidad
 ---
 
 ## Como Colaborar 🤝
-- Você pode colaborar com os projetos da Célula de Dev do Inove, para isso basta entrar em contato com o lider de equipe atual da célula de Dev para receber as orientações. E-mail do lider atual: [email]("mailto:juandbpimentel@alu.ufc.br")
+- Você pode colaborar com os projetos da Célula de Dev do Inove, para isso basta entrar em contato com o lider de equipe atual da célula de Dev por esse [email](mailto:juandbpimentel@alu.ufc.br) para receber as orientações.
